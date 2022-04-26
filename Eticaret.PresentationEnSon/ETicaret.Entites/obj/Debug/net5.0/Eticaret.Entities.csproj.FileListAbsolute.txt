@@ -1,0 +1,14 @@
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\bin\Debug\net5.0\Eticaret.Entities.deps.json
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\bin\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\bin\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\bin\Debug\net5.0\Eticaret.Entities.pdb
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.AssemblyReference.cache
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\Eticaret.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfoInputs.cache
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\Eticaret.Entities.AssemblyInfo.cs
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\Eticaret.Entities.csproj.CoreCompileInputs.cache
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\Eticaret.Entities.dll
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\ref\Eticaret.Entities.dll
+C:\Users\90545\Desktop\YAZILIM\19022022\Eticaret.PresentationEnSon\ETicaret.Entites\obj\Debug\net5.0\Eticaret.Entities.pdb
